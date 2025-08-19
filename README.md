@@ -2,7 +2,7 @@
 
 ![Banner](https://i.imgur.com/EkEtphC.png)
 
-Personal dotfiles for macOS, based on the excellent [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) with customizations for modern development workflow.
+Personal dotfiles for macOS designed for modern development workflow with ZSH, Git, and Homebrew integration.
 
 ## Features
 
@@ -20,7 +20,7 @@ Personal dotfiles for macOS, based on the excellent [mathiasbynens/dotfiles](htt
 ### Quick install with Git
 
 ```bash
-git clone https://github.com/errorproofdev/dotfiles.git ~/CODE/dotfiles && cd ~/CODE/dotfiles && source bootstrap.sh
+git clone https://github.com/errorproofdev/macos-dotfiles.git ~/CODE/dotfiles && cd ~/CODE/dotfiles && source bootstrap.sh
 ```
 
 ### Create the symlink
@@ -110,7 +110,7 @@ export PATH="/custom/path:$PATH"
 
 ## Thanks
 
-- [Mathias Bynens](https://github.com/mathiasbynens/dotfiles) for the excellent foundation
+- [Mathias Bynens](https://github.com/mathiasbynens/dotfiles) for inspiration
 - [Oh My Zsh](https://ohmyz.sh/) community
 - [Homebrew](https://brew.sh/) maintainers
 
