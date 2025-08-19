@@ -1,4 +1,4 @@
-# Joseph Vore's dotfiles
+# ErrorProof dotfiles
 
 ![Banner](https://i.imgur.com/EkEtphC.png)
 
@@ -61,7 +61,7 @@ ln -sf ~/CODE/dotfiles ~/dotfiles
 ### GUI Applications
 
 - Visual Studio Code
-- Docker Desktop
+- Docker Desktop (colima)
 - Browsers (Chrome, Firefox)
 - iTerm2 terminal
 - Sourcetree Git client
