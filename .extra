@@ -1,0 +1,19 @@
+# Example .extra file
+# This file is for personal configurations that shouldn't be committed
+# It gets loaded by the shell configuration files
+
+# Git credentials (example - customize as needed)
+# GIT_AUTHOR_NAME="Joseph Vore"
+# GIT_COMMITTER_NAME="$GIT_AUTHOR_NAME"
+# git config --global user.name "$GIT_AUTHOR_NAME"
+# GIT_AUTHOR_EMAIL="joeyvore@gmail.com"
+# GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+# git config --global user.email "$GIT_AUTHOR_EMAIL"
+
+# Private aliases
+# alias work="cd ~/Projects/work"
+
+# Private environment variables
+# export SOME_API_KEY="your-key-here"
+
+# Override any existing dotfile settings here
